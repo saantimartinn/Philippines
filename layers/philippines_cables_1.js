@@ -1,0 +1,1 @@
+var json_philippines_cables_1 = {"type":"FeatureCollection","name":"philippines_cables_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
